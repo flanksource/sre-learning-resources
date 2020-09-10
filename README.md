@@ -24,7 +24,7 @@
 # Go
 
 * 📖 [Ultimate Go](https://github.com/hoanhan101/ultimate-go)
-
+* 📖 [Learn Go With Tests](https://github.com/quii/learn-go-with-tests)
 
 ### Kubernetes 100
 
