@@ -11,6 +11,7 @@
 
 
 - 💻 🎥 📄 [Kode Cloud](https://kodekloud.com/) - Highly recommended has self-paced courses with labs on DevOps, Linux, Kubernetes 💲
+- 💻 🎥 📄 [KubeAcademy](https://kube.academy/) 💲
 - 📄 [roadmap.sh](https://roadmap.sh) - Various roadmaps for DevOps/Backend etc.
 - 💻 [Katacoda](https://www.katacoda.com/courses) - Interactive browser-based labs
 # Systems Design
