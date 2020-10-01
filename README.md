@@ -11,21 +11,21 @@
 Table of Contents
 =================
 
-   * [TL;DR](#tldr)
-   * [People  &amp; Events to Follow](#people---events-to-follow)
-   * [Systems Design](#systems-design)
-   * [Incident Management](#incident-management)
-   * [Go](#go)
-   * [Kubernetes](#kubernetes)
-         * [Kubernetes 100](#kubernetes-100)
-         * [Containers](#containers)
-         * [Kubernetes 101](#kubernetes-101)
-         * [Kubernetes 201](#kubernetes-201)
-         * [Kubernetes 301](#kubernetes-301)
-   * [Networking](#networking)
-         * [Networking 101](#networking-101)
-         * [Networking 202](#networking-202)
-   * [Toolbox](#toolbox)
+* [TL;DR](#tldr)
+* [People  &amp; Events to Follow](#people---events-to-follow)
+* [Systems Design](#systems-design)
+* [Incident Management](#incident-management)
+* [Go](#go)
+* [Kubernetes](#kubernetes)
+	* [Kubernetes 100](#kubernetes-100)
+	* [Containers](#containers)
+	* [Kubernetes 101](#kubernetes-101)
+	* [Kubernetes 201](#kubernetes-201)
+	* [Kubernetes 301](#kubernetes-301)
+* [Networking](#networking)
+	* [Networking 101](#networking-101)
+	* [Networking 202](#networking-202)
+* [Toolbox](#toolbox)
 
 # TL;DR
 
@@ -37,7 +37,7 @@ Table of Contents
 # People  & Events to Follow
 
 * [Marc Brooker](http://brooker.co.za/blog/)
-* [Adrian Hornsby]([https://medium.com/@adhorn)
+* [Adrian Hornsby](https://medium.com/@adhorn)
 * [Colm MacCárthaigh](https://twitter.com/colmmacc)
 * [John Allspaw](https://twitter.com/allspaw)
 * [SRECon / LISA](https://www.youtube.com/c/UsenixOrg)
