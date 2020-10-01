@@ -8,6 +8,10 @@
 | 💻 interactive / labs     |
 | ✉️ sign-up required       |
 
+A curated list of resources designed to level up as an SRE engineer, we try and avoid duplicating content<br>
+
+For a more complete list of resources see [Awesome SRE](https://github.com/dastergon/awesome-sre) and 
+
 Table of Contents
 =================
 
