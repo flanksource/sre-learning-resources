@@ -1,31 +1,74 @@
-# sre-learning-resources
+# Awesome SRE Learning Resources
+| Legend                   |
+| ------------------------ |
+| 🎥 30 - 60 minute videos  |
+| 📄 5 - 15 minute articles |
+| 💲 paid resources         |
+| 📖 full length book       |
+| 💻 interactive / labs     |
+| ✉️ sign-up required       |
 
+Table of Contents
+=================
 
+   * [TL;DR](#tldr)
+   * [People  &amp; Events to Follow](#people---events-to-follow)
+   * [Systems Design](#systems-design)
+   * [Incident Management](#incident-management)
+   * [Go](#go)
+   * [Kubernetes](#kubernetes)
+         * [Kubernetes 100](#kubernetes-100)
+         * [Containers](#containers)
+         * [Kubernetes 101](#kubernetes-101)
+         * [Kubernetes 201](#kubernetes-201)
+         * [Kubernetes 301](#kubernetes-301)
+   * [Networking](#networking)
+         * [Networking 101](#networking-101)
+         * [Networking 202](#networking-202)
+   * [Toolbox](#toolbox)
 
-🎥 30 - 60 minute videos
-📄 5 - 15 minute articles
-💲 paid resources
-📖 full length book
-💻 interactive / labs
-✉️ sign-up required
+# TL;DR
 
-
-- 💻 🎥 📄 [Kode Cloud](https://kodekloud.com/) - Highly recommended has self-paced courses with labs on DevOps, Linux, Kubernetes 💲
-- 💻 🎥 📄 [KubeAcademy](https://kube.academy/) 💲
+- 💻 🎥 📄 [Kode Cloud](https://kodekloud.com/) - Self-paced courses with labs on DevOps, Linux, Kubernetes 💲
+- 💻 🎥 📄 [KubeAcademy](https://kube.academy/) Free and 💲
 - 📄 [roadmap.sh](https://roadmap.sh) - Various roadmaps for DevOps/Backend etc.
 - 💻 [Katacoda](https://www.katacoda.com/courses) - Interactive browser-based labs
+
+# People  & Events to Follow
+
+* [Marc Brooker](http://brooker.co.za/blog/)
+* [Adrian Hornsby]([https://medium.com/@adhorn)
+* [Colm MacCárthaigh](https://twitter.com/colmmacc)
+* [John Allspaw](https://twitter.com/allspaw)
+* [SRECon / LISA](https://www.youtube.com/c/UsenixOrg)
+* Kubecon [2018 NA](https://github.com/cloudyuga/kubecon18-NA) [2018 China](https://github.com/cloudyuga/kubecon18-china) [2018 EU](https://github.com/cloudyuga/kubecon18-eu) [2017](https://github.com/cloudyuga/kubecon17)
+* [REDeploy](https://www.youtube.com/channel/UCHbJcI6KfyxflRqdv26b3Qw)
+* [Resilience Engineering Symposium](https://www.resilience-engineering-association.org/symposium/)
+* [@Scale](https://www.facebook.com/atscaleevents/videos)
+
 # Systems Design
 
 * 📖 [Systems Design Primer](https://github.com/donnemartin/system-design-primer)
 * 📖 [Building Secure and Reliable System](https://static.googleusercontent.com/media/landing.google.com/en//sre/static/pdf/Building_Secure_and_Reliable_Systems.pdf)
 * 📖 [The Site Reliability Engineering Workbook](https://landing.google.com/sre/workbook/toc/)
 * 📖 [Site Reliability Engineering - How google runs production systems](https://landing.google.com/sre/sre-book/toc/index.html)
+* 📖 [Designing Distributed Systems](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/en-us/)
+* 📄 [The Resilient Architecture Collection](https://medium.com/@adhorn/the-resilient-architecture-collection-80cfce7edef3) 
+* 📄 🎥 [Amazon Builders Library](https://aws.amazon.com/builders-library)
 
+# Incident Management
+
+*  🎥 [Incident Command](https://www.youtube.com/watch?v=Zn8-R6Pt9hY&list=PL90QotVRoDrhRnSwLYJDrR-Ptqjh2a4xR&index=51&t=0s)
+*  🎥 [AWS Incident Methodology](https://www.facebook.com/atscaleevents/videos/2529106960654058/)
+* 🎥 [Black Swans](https://www.youtube.com/watch?v=LSQUO_Yi9oM&list=PL90QotVRoDrhRnSwLYJDrR-Ptqjh2a4xR&index=85&t=0s)
+* 📄 [Post Mortem Template]([https://medium.com/@adhorn/incident-postmortem-template-7b0e0a04f7a8](https://medium.com/@adhorn/incident-postmortem-template-7b0e0a04f7a8))
 
 # Go
 
 * 📖 [Ultimate Go](https://github.com/hoanhan101/ultimate-go)
 * 📖 [Learn Go With Tests](https://github.com/quii/learn-go-with-tests)
+
+# Kubernetes
 
 ### Kubernetes 100
 
@@ -54,6 +97,9 @@
 
 ### Kubernetes 201
 
+- 📖 [Kubernetes Patterns](https://developers.redhat.com/books/kubernetes-patterns)
+- 📖 [Kubernetes Operators](https://developers.redhat.com/books/kubernetes-operators)
+- 📖 [Knative Cookbook](https://developers.redhat.com/books/knative-cookbook)
 - 🎥 [Next-Gen Infrastructure](https://www.youtube.com/watch?v=75DcXGVRxaU)
 - 🎥 [Container Journey: Past, Present, and Future](https://www.youtube.com/watch?v=tYgtDb0t908)
 - 🎥 [CrashLoopBackoff, Pending, FailedMount and Friends: Debugging Common Kubernetes Cluster and Application Issues](https://www.youtube.com/watch?v=7FOCG5kua1w) 📄 [Slides](https://schd.ws/hosted_files/kccncna17/be/CrashLoopBackoff-Pending-FailedMount-and-Friends-draft.pdf)
@@ -62,10 +108,10 @@
 
 * 🎥 [Containers from scratch](https://www.youtube.com/watch?v=8fi7uSYlOdc)
 * 🎥 [Debugging etcd](https://youtube.com/watch?v=NVMZBBQ9hsM) 📄 [Slides](https://schd.ws/hosted_files/kccna18/a5/Kubecon%20Seattle_%20Debugging%20etcd.pdf)
-  * [auger](https://github.com/jpbetz/auger) - for inspecting kubernetes object stored in etcd
-  * [etcd-dump-logs](https://github.com/etcd-io/etcd/tree/master/tools/etcd-dump-logs)
 * 🎥 [101 Ways to Crash Your Cluster](https://www.youtube.com/watch?v=xZO9nx6GBu0) 📄 [Slides](https://schd.ws/hosted_files/kccncna17/20/KubeCon%20NA%202017-101%20Ways%20to%20Crash%20Your%20Cluster.pdf)
 
+
+# Networking
 
 ### Networking 101
 
@@ -92,9 +138,7 @@
   *Not specific to containers*
 * 📄 [Linux Sysctl Network Tuning](https://github.com/leandromoreira/linux-network-performance-parameters)
 
-### List of Kubernetes talks
 
-* https://github.com/cloudyuga/kubecon18-NA
-* https://github.com/cloudyuga/kubecon18-china
-* https://github.com/cloudyuga/kubecon18-eu
-* https://github.com/cloudyuga/kubecon17
+# Toolbox
+  * [auger](https://github.com/jpbetz/auger) - for inspecting kubernetes object stored in etcd
+  * [etcd-dump-logs](https://github.com/etcd-io/etcd/tree/master/tools/etcd-dump-logs)
