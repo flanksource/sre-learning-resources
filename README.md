@@ -140,5 +140,8 @@ Table of Contents
 
 
 # Toolbox
-  * [auger](https://github.com/jpbetz/auger) - for inspecting kubernetes object stored in etcd
-  * [etcd-dump-logs](https://github.com/etcd-io/etcd/tree/master/tools/etcd-dump-logs)
+* [stern](https://github.com/wercker/stern) for log tailing
+* [kubectx](https://github.com/ahmetb/kubectx) for context switching
+* [kind](https://kind.sigs.k8s.io/) for local clusters
+* [auger](https://github.com/jpbetz/auger) - for inspecting kubernetes object stored in etcd
+* [etcd-dump-logs](https://github.com/etcd-io/etcd/tree/master/tools/etcd-dump-logs)
