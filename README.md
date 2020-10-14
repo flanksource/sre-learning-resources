@@ -37,6 +37,7 @@ Table of Contents
 - 💻 🎥 📄 [KubeAcademy](https://kube.academy/) Free and 💲
 - 📄 [roadmap.sh](https://roadmap.sh) - Various roadmaps for DevOps/Backend etc.
 - 💻 [Katacoda](https://www.katacoda.com/courses) - Interactive browser-based labs
+- 💻 🎥 📄 [MIT's Missing Semester](https://missing.csail.mit.edu/)
 
 # People  & Events to Follow
 
@@ -62,10 +63,11 @@ Table of Contents
 
 # Incident Management
 
-*  🎥 [Incident Command](https://www.youtube.com/watch?v=Zn8-R6Pt9hY&list=PL90QotVRoDrhRnSwLYJDrR-Ptqjh2a4xR&index=51&t=0s)
-*  🎥 [AWS Incident Methodology](https://www.facebook.com/atscaleevents/videos/2529106960654058/)
+* 🎥 [Incident Command](https://www.youtube.com/watch?v=Zn8-R6Pt9hY&list=PL90QotVRoDrhRnSwLYJDrR-Ptqjh2a4xR&index=51&t=0s)
+* 🎥 [AWS Incident Methodology](https://www.facebook.com/atscaleevents/videos/2529106960654058/)
 * 🎥 [Black Swans](https://www.youtube.com/watch?v=LSQUO_Yi9oM&list=PL90QotVRoDrhRnSwLYJDrR-Ptqjh2a4xR&index=85&t=0s)
-* 📄 [Post Mortem Template]([https://medium.com/@adhorn/incident-postmortem-template-7b0e0a04f7a8](https://medium.com/@adhorn/incident-postmortem-template-7b0e0a04f7a8))
+* 📄 [Post Mortem Template](https://medium.com/@adhorn/incident-postmortem-template-7b0e0a04f7a8)
+* 📖 [Incident Management Handbook](https://www.atlassian.com/incident-management/handbook)  ✉️
 
 # Go
 
