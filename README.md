@@ -73,6 +73,7 @@ Table of Contents
 
 * 📖 [Ultimate Go](https://github.com/hoanhan101/ultimate-go)
 * 📖 [Learn Go With Tests](https://github.com/quii/learn-go-with-tests)
+* 🎥 [Pratical Go - Real world advice for maintainable go](https://www.youtube.com/watch?v=plv9yxbkuiU)
 
 # Kubernetes
 
@@ -143,6 +144,7 @@ Table of Contents
 * 🎥 [Load Balancing Demystified](https://www.youtube.com/watch?v=91evAYoWWdY)
   *Not specific to containers*
 * 📄 [Linux Sysctl Network Tuning](https://github.com/leandromoreira/linux-network-performance-parameters)
+* 🎥 [Deep Dive - Packet level debugging on bridged and non bridged CNI Plugins](https://www.youtube.com/watch?v=RQNy1PHd5_A)
 
 
 # Toolbox
