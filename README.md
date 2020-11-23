@@ -68,6 +68,8 @@ Table of Contents
 * 🎥 [Black Swans](https://www.youtube.com/watch?v=LSQUO_Yi9oM&list=PL90QotVRoDrhRnSwLYJDrR-Ptqjh2a4xR&index=85&t=0s)
 * 📄 [Post Mortem Template](https://medium.com/@adhorn/incident-postmortem-template-7b0e0a04f7a8)
 * 📖 [Incident Management Handbook](https://www.atlassian.com/incident-management/handbook)  ✉️
+* 📄 [Operational Readiness Review Template](https://medium.com/the-cloud-architect/operational-readiness-review-template-e23a4bfd8d79)
+* 📄 [Deep Dive into Incident Management](https://blog.usejournal.com/deep-dive-into-incident-management-introduction-299fbbb686b) 5-part series
 
 # Go
 
@@ -145,7 +147,8 @@ Table of Contents
   *Not specific to containers*
 * 📄 [Linux Sysctl Network Tuning](https://github.com/leandromoreira/linux-network-performance-parameters)
 * 🎥 [Deep Dive - Packet level debugging on bridged and non bridged CNI Plugins](https://www.youtube.com/watch?v=RQNy1PHd5_A)
-
+* 📄 [Antrea packet walks](https://github.com/dumlutimuralp/antrea-packet-walks)
+* 📄 [Conntrack Tales - 1001 flows](https://blog.cloudflare.com/conntrack-tales-one-thousand-and-one-flows/)
 
 # Toolbox
 * [stern](https://github.com/wercker/stern) for log tailing
